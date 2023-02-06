@@ -1,0 +1,19 @@
+.flex-container {
+  display: flex;
+  padding: 10px;
+  margin: 0;
+  background: orange;
+  flex-direction: row;
+  justify-items: end;
+}
+
+.flex-item {
+  background: tomato;
+  padding: 10px;
+  width: 200px;
+  height: 150px;
+  margin: 30px;
+  color: white;
+  font-size: 3em;
+  text-align: center;
+}
